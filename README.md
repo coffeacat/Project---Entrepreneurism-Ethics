@@ -152,22 +152,72 @@ For measuring the newsletter subscription goal of "Achieve 2,000 newsletter subs
 
 ## 1.C.3.1 OKR3 Objective and Key Result
 
-  Lans AI will maintain an updated quality catalogue of safe AI powered tools in order to better serve customers with current issues. To help make sure that business owners continue to stay satisfied with the products Lans AI offers, each solution must maintain a 50% user satisfaction rating to be promoted to users. The solutions hosted on Lans AI must have also gone under a background check by us to ensure that we are not promoting products that are harmful or contradict any of our core values. The stakeholders in this OKR are small business owners, their customers, Lans AI, their AI business partners, and their investors.
+  Lans AI will maintain an updated quality catalogue of safe AI powered tools in order to better serve customers with current modern day issues. To help make sure that business owners continue to stay satisfied with the products Lans AI offers, each solution must maintain a 50% user satisfaction rating to be promoted to users. That means at least roughly half of the users who use the product should be satisfied with the product they used. User satisfaction will be an important metric in determining which tools are the most useful to our customer base and which companies we should continue to invest more in and continue to partner with. In addition to maintaining a satisfactory user satisfaction rating, the solutions hosted on Lans AI are required to go under a background check by us to ensure that they’re safe to use, and we are not promoting products that are harmful or contradict any of our core values. This also helps to lower any financial and privacy risks between the key stakeholders. The key stakeholders in this OKR are small business owners, their customers, Lans AI, their AI business partners, and their investors. Small business owners will be impacted depending on how well Lans AI is able to provide services that help optimize their business strategies and maximize their available resources. Small business owners’ customers will be impacted based on how well Lans AI provides assistance and whether changes are well implemented. Lans AI will be impacted depending on the need for AI solutions in the business economy, how many shareholders want to invest or partner with Lans AI, and how well Lans AI is able to deliver on their promise. AI Partners will be impacted by how well their products do in the market and how well Lans AI aids them in marketing their product. Investors will be impacted depending on how well Lans AI performs as a company. A minimum user satisfaction rating of 50% will help small business owners’, Lans AI, and Lans AI investors know which AI partners are valuable assets of Lans AI and which ones are not, since a lot of the impact on the stakeholders depends on the quality of the service Lans AI provides to business owners.
 
 ## 1.C.3.2 OKR3 Metric(s) with Experiment(s)
 
-  Each user on Lans AI is required to score a product that they used for more than a month on a score from 1-10. Those scores will be averaged out to make up the user satisfaction rating. Users may also provide a word review if they wish to under that product's page. Products below 50% user satisfaction may still remain on Lans AI and be searchable in our database as long as we are still partnered with that AI company, but will be significantly less promoted than solutions that have a user satisfaction rating above 50%.
+  To measure the quality in the products we offer, we will be using user satisfaction as a metric, like we mentioned earlier. User satisfaction will be constructed out of mandatory short user reviews. Each user on Lans AI is required to score a product that they used for more than a month on a score from 1-10, in addition to what they were using the product for and how well it met their needs. The scores will be averaged out to make up the user satisfaction rating. There will also be additional short questions, but users are ultimately not required to submit any further information other than the first three questions to avoid survey fatigue.
+
+As of right now, the short customer satisfaction survey involves these questions:
+1. On a scale of 1-10, how would you rate this product or service overall? *(required)
+2. What purpose(s) were you using our services for? (select all that may apply) *(required)
+  - Customer Data Analysis
+  - Personalizing Customer Experiences
+  - Market Research
+  - Etc.
+  - Other
+3. On a scale of 1-10, How well does this service meet your needs? *(required)
+4. Which features felt most valuable to you? (select all that may apply)
+  - Data Collection
+  - Data Cleaning
+  - Customer Personalization
+  - Etc.
+  - Other
+5. Which features did you feel were missing from the AI service or tool? (select all that may apply)
+  - Report Generation
+  - Predictive Modelling
+  - Market Research
+  - Etc.
+  - Other
+6. Which of the following words would you use to describe this AI service?
+  - Overpriced
+  - Impractical
+  - Reliable
+  - Unique
+  - Poor Quality
+  - Ineffective
+  - Other
+7. On a scale of 1-10, how would you rate the value of this product, with regards to the money you spent on it?
+8. On a scale of 1-10, how likely are you to recommend this service to others?
+9. How satisfied are you with [insert the most well known functional use of this service], on a scale of 1-10.
+10. Please rate the following features on a scale of 1 to 5, where 1 is ‘Not important at all,’ and five is ‘Extremely important.’
+| Feature Name | 1 | 2 | 3 | 4 | 5 |
+|--------------|---|---|---|---|---|
+| Data Collection |
+| Report Generation |
+| Predictive Modeling |
+| … |
+11. If you could change just one thing about this product, what would it be? [1]
+12. Any other concerns about this product?
+
+Any user, regardless of whether they have used the product or not, may also provide a word review if they wish to under that product’s page on our website. Lans AI will construct the user satisfaction % primarily based on the first three questions of the survey (1. On a scale of 1-10, how would you rate this product or service overall? 2. What purpose(s) were you using our services for? 3. On a scale of 1-10, How well does this service meet your needs?), but will factor in the other survey questions if the users choose to answer them, as well as attempt to factor in website user reviews of all users and weight them accordingly based on whether the user is a verified user of the service and if they’ve been using it for over a month. There is a larger emphasis on the survey questions instead of reviews because this is a mandatory survey that the user must take after they use a product for over a month, in contrast to reviews which can be submitted by any user regardless of whether or not they are a verified purchaser of that AI product. Products below 50% user satisfaction may still remain on Lans AI and be searchable in our database as long as we are still partnered with that AI company, but will be significantly less promoted than solutions that have a user satisfaction rating above 50%. Solutions that have high user satisfaction ratings will be recommended to people more often the higher their rating is.
+
+By studying user satisfaction in our customer base, we can identify which services we should be investing into.
 
 ## 1.C.3.3 Ethical Impact(s)/Issues(s):
 Ethical Impact Risk Table:
 
-| Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest Risk |
-|-------------|----------------|--------------|---------------------------|
-| Customer | mid | ??? | mid |
-| Company | high | low | mid |
-| AI service partners | ??? | ??? | mid |
+| Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights |
+|-------------|----------------|--------------|---------------------------|---------------------|
+| Business Owners | mid | high | low | mid |
+| Business Owners' Customers | low | mid | low | low |
+| Lans AI | high | low | high | low |
+| AI service partners | mid | low | mid | mid |
+| Investors | high | low | mid | low |
 
+Business Owner Stakeholder: The financial risks for business owners are moderate, as the performance of the AI service Lans AI provides affects the success or failure of the business. The business owner will not necessarily risk losing their entire business just because they choose to use Lans AI, but it may pose a risk to the owner depending on the available funds and what percentage of that is invested into Lans AI. After all, Lans AI is only meant to be a platform to provide easy access to vetted AI tools– it is not meant to be the only business management tool a business owner relies on, therefore while the use of Lans AI may affect a business’ performance, it will not cause the immediate downfall of the business in the way other high risk financial investments might have. The privacy risks for business owners are high, as the AI tool will need intimate knowledge of how the business operates and its customer base in order to produce any meaningful results. The primary concern regarding privacy is making sure none of this internal data is leaked or utilized for any other purpose other than what it’s supposed to do. [2] Business owners shouldn’t have to worry about many conflicting interests risks, as many of the other stakeholders share many of the interests business owners have, however, business owners might want different features implemented into Lans AI or want better prices which conflict with the interest of other stakeholders who want to spend their efforts elsewhere. Overall, the risk of business owners’ rights being violated is medium, since if we’re not careful about vetting the AI partners we host or handling data, we may cause a lot of harm to the businesses we’re meant to be helping.
 
+Business Owner’s Customers Stakeholder: The financial risk the customer of a business should face is very low since the customer is not obligated nor pressured to buy any of the products the business offers. The only risk they take purchasing a product is whether or not they get their money’s worth. Customers might face a moderate amount of privacy risk, since it is their behavior that is being studied and filed away in AI models for business analytics, possibly without their informed consent. There is little risk for conflicting interests, as the only conflicts a business’ customer may have is concerning the price and quality of the product and any customer data that might be stored without their knowledge. There is a low chance of a customer's rights being violated if we and our AI partners follow privacy laws accordingly.
 
 ## 1.C.4.1 OKR4 Objective and Key Result
 
