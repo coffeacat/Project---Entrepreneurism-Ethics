@@ -14,7 +14,7 @@ The key questions guiding our startup are: "How can we create an AI matching sys
 
 ## 1.C. Strategy with Ethical Impacts AND Ethical Safeguards
 
-### 1.C.1.1 OKR1 Objective and Key Result
+## 1.C.1.1 OKR1 Objective and Key Result
 
   Lans.ai will maintain an average of 10% conversion rate from all web traffic and site visitors  within the first three months after our service’s launch. This means that for every 100 site visitors, at least 10 should sign up, engage with our AI powered matching system, and either complete a business assessment, request a consultation, or purchase an AI solution from one of our partners. This metric is important because it indicates early marketfit, and validates the effectiveness of Lans.ai’s service for new and small businesses. This metric is also a reflection on how well our service resonates with our client demographic, how valuable this service is seen by the wider market, and how effective our marketing has been for Lans.ai. 
   Key stakeholders of Lans.ai involve the small business using Lans.ai, their customers and clients who benefit from the improvements Lans.ai provides to those they do business with, the AI solution providers which we recommend to our small and new business clients, investors and funding partners, and the founders of Lans.ai. An early conversion rate of 10% or higher is important to all parties involved as it validates our mission and market fit. It gives our investors and funding partners confidence that their investment is going towards a service that is in demand, which makes further investment more appealing. Lans.ai having this support and funding allows us to continue improving our services by enabling us to expand our outreach to both AI solutions providers looking for more clients, and underserved small businesses who benefit from the even playing field AI solutions provides. Our small business clients' own clients are additional stakeholders who must be considered, as the service we provide will have a direct impact on the operations of the businesses from which those clients deal with.
@@ -96,7 +96,7 @@ To alleviate these issues and enforce ethical business practice for Lans.ai, we 
   Measuring the effectiveness of our privacy and data protection policy will be done by monitoring the opt-in and opt-out rates of our users, with lower opt out rates signifying an agreeable privacy policy and higher rates signaling an unreasonable or intrusive policy. Additionally, our privacy policy will be constructed to have as close to a 12-15 range Flesch-Kinaid english readability score as possible. This range denotes text that is on the lower end of what is considered "advanced" reading material and is generally accessible to college level readers [5]. Because business owners are likely to have at least a college level understanding of English, a 12-15 readability score will help our privacy policy's ability to inform our clients of their privacy rights and options.
 
 
-### 1.C.2.1 OKR2 Objective and Key Result
+## 1.C.2.1 OKR2 Objective and Key Result
   Lans AI will democratize AI access by achieving an 85% match accuracy between small business needs and relevant AI solutions, with 70% of matched businesses implementing at least one recommended tool within 3 months. The Lans AI system must be designed to accommodate the specific needs of small business owners who often lack technical expertise, face resource constraints, and have limited time to research technology solutions. 
 
   Key stakeholders include the small business owners who are at risk of being left behind in the digital revolution, the AI tool providers seeking to expand their customer base, and local business associations interested in supporting community economic resilience. Additionally, other parties such as municipal governments and economic development organizations may also be impacted as the success of local businesses directly affects community prosperity. The platform serves as a bridge between underserved businesses and transformative AI tools they would otherwise never discover, helping level the playing field in an increasingly technology-driven marketplace.
@@ -150,7 +150,7 @@ For measuring the newsletter subscription goal of "Achieve 2,000 newsletter subs
 
 
 
-### 1.C.3.1 OKR3 Objective and Key Result
+## 1.C.3.1 OKR3 Objective and Key Result
 
   Lans AI will maintain an updated quality catalogue of safe AI powered tools in order to better serve customers with current issues. To help make sure that business owners continue to stay satisfied with the products Lans AI offers, each solution must maintain a 50% user satisfaction rating to be promoted to users. The solutions hosted on Lans AI must have also gone under a background check by us to ensure that we are not promoting products that are harmful or contradict any of our core values. The stakeholders in this OKR are small business owners, their customers, Lans AI, their AI business partners, and their investors.
 
@@ -169,7 +169,7 @@ Ethical Impact Risk Table:
 
 
 
-### 1.C.4.1 OKR4 Objective and Key Result
+## 1.C.4.1 OKR4 Objective and Key Result
 
   One of the biggest challenges that many businesses face to grow is social awareness and discoverability. In the era of technology, many direct themselves to the internet to obtain information and stay up to date with current situations. Businesses have taken the opportunity to do so with social media, a medium that many use to be able to post their statistics, business information, etc, which can be shared with other individuals or a large group of people. 
 
