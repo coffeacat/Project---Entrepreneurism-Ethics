@@ -181,12 +181,12 @@ Ethical Impact Risk Table:
 - Lans.ai provides a list of tools that would adapt to the company's style and create designs that can get the attention of 1,000 viewers a week.
 - Management tools are available to support managing a company's social media page(s), requiring a mild amount of maintenance and supervision to improve efficiency by 25% percent.
    
-  Lans.ai provides design services that will give the company the ability to present itself in the media to their liking, reaching more than 1,000 viewers a week:
+Lans.ai provides design services that will give the company the ability to present itself in the media to their liking, reaching more than 1,000 viewers a week:
 - The services provide a list of AI design tools that can support the business's current design being used for their website (if applicable) to adapt it and present it in a presentable manner on social media platforms to display the company's identity and information.
 - If the business is just starting out then the design tools will help in creating different blueprints to let the user choose from a wide range of design choices to match the company's identity.
 - The same goes for if the company does not want to make a design but lets the AI tools available to represent the business best and ensure that its information is presented well.
 
-  Powerful Management tools are available for the business to help with marketing through social media. Creating a hassle-free experience with little moderation, giving a boost in workforce efficiency by 25%.
+Powerful Management tools are available for the business to help with marketing through social media. Creating a hassle-free experience with little moderation, giving a boost in workforce efficiency by 25%.
 - Marketing tools are available to support in conjunction with social media tools to help businesses get the most out of their features on stand-by.
 - Such tools require little moderation with user-friendly tools to make sure that the content being created and its information is correct.
 - Its easy use of tools from various services can help the business continue and strive with the other methods that AI can use to improve effectiveness and efficiency.
