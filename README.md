@@ -191,12 +191,6 @@ As of right now, the short customer satisfaction survey involves these questions
 8. On a scale of 1-10, how likely are you to recommend this service to others?
 9. How satisfied are you with [insert the most well known functional use of this service], on a scale of 1-10.
 10. Please rate the following features on a scale of 1 to 5, where 1 is ‘Not important at all,’ and five is ‘Extremely important.’
-| Feature Name | 1 | 2 | 3 | 4 | 5 |
-|--------------|---|---|---|---|---|
-| Data Collection | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| Report Generation | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| Predictive Modeling | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| … | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 11. If you could change just one thing about this product, what would it be? [1]
 12. Any other concerns about this product?
 
