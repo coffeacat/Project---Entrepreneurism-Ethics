@@ -260,6 +260,23 @@ Powerful Management tools are available for the business to help with marketing 
 
   Knowing the nature of using AI for growth in the online world, our policies and rules will be pushed to all parties including us as a service to establish professionalism and a safe work environment. Resulting in the making of our Code of Conduct between the client and us as a service alongside our partners. Security Protocols will be made for all parties to maintain a stable relationship between the Lans.ai service, the providers of the AI tools, and our clients.[10]
 
+
+Item 2 : Cultural Policy 
+
+2A
+
+2B
+
+2C
+
+
+Item 3 : Ethics Policy 
+
+3A
+
+3B
+
+
 ### References
 
 [1] M. Hassenzahl and N. Tractinsky, "Visual Aesthetics," in The Encyclopedia of Human-Computer Interaction, 2nd ed., Interaction Design Foundation. [Online]. Available: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-aesthetics. [Accessed: 06-Mar-2025].
