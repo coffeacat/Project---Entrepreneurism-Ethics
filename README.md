@@ -261,20 +261,20 @@ Powerful Management tools are available for the business to help with marketing 
   Knowing the nature of using AI for growth in the online world, our policies and rules will be pushed to all parties including us as a service to establish professionalism and a safe work environment. Resulting in the making of our Code of Conduct between the client and us as a service alongside our partners. Security Protocols will be made for all parties to maintain a stable relationship between the Lans.ai service, the providers of the AI tools, and our clients.[10]
 
 
-Item 2 : Cultural Policy 
+## Item 2 : Cultural Policy 
 
-2A
+### 2A
 
-2B
+### 2B
 
-2C
+### 2C
 
 
-Item 3 : Ethics Policy 
+## Item 3 : Ethics Policy 
 
-3A
+### 3A
 
-3B. Board:
+### 3B. Board:
 
 For LANS.AI’s Board Of Ethics we knowledgeable and experienced people can demonstrate understanding the praxis of AI and Ethics, especially within the context of business to business operations as well as AI as a product or service.
 
