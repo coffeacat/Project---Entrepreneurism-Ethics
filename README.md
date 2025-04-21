@@ -274,7 +274,25 @@ Item 3 : Ethics Policy
 
 3A
 
-3B
+3B. Board:
+
+For LANS.AI’s Board Of Ethics we knowledgeable and experienced people can demonstrate understanding the praxis of AI and Ethics, especially within the context of business to business operations as well as AI as a product or service.
+
+3.B.1 : Steven Mills
+	
+  Steven Mill’s is the Chief AI Ethics Officer and Managing Director & Partner at Boston Consulting Group. Steven’s experience includes his membership in the BCG Center for Digital Government where he is the global lead for AI in the public sector, past support for and leadership experience in AI product development, implementation of complex machine learning use cases, and decision support in large scale modeling and simulation for a variety of clients within the private and public sectors of health, aerospace, finance, and technology. As a recognized expert in “responsible AI”, Mills has helped many clients uphold strong ethical standards and responsible use of AI  through developing responsible implementation plans. [11]
+	His experience working with clients across different sectors along with his technical knowledge of AI and how to ethically implement it into business operations makes him somebody who can uphold LANS.ai’s ethical policies.
+
+3.B.2 Dr. Ruman Chowdhury
+
+  Dr. Ruman Chowdhury is a renowned data and social scientist. Once the Director of the Machine Learning Ethics, Transparency, and Accountability (META) team at Twitter, and founder and CEO of nonprofit org Humane Intelligence, Chowdhury is a leading voice within the field of ethical artificial intelligence. As the Global Lead for Responsible AI at Accenture Applied Intelligence, during which she was at Accenture, she developed a first in industry tool to help companies detect and mitigate bias in the AI systems they employ. [12]
+	Dr Ruman also demonstrates both the technical and people skills needed to successfully implement and maintain the good ethical standing LANS.ai wishes to uphold with our clients and our stakeholders. 
+
+
+3.B.3 Dennis Hirsch
+
+  Yale law graduate Denis Hirsch is a professor of law and computer science at Ohio State University where he teaches courses on the law, policy, privacy and ethics management of AI, as well as privacy law and property law. Hirsch is a known expert in the field of analysitcsHis 2020 Maryland Law Review article was one of the inspirations for a bill introduced in the US Senate: the Algorithmic Fairness Act of 2020. [13]
+  Dennis Hirsch’s 2020 Maryland Law Review article was one of the inspirations for the Algorithmic Fairness Act of 2020, a bill introduced into the US Senate in 2020. An expert in law, ethics, and AI management, as well as having done over 100 scholarly presentations and talks done on these subjects, [13] Hirsch’s expertise offers a unique legal perspective in the enforcement and support of LANS.ai’s ethics policy, as well as the privacy and security concerns involving our clients and our use of AI.
 
 
 ### References
@@ -298,3 +316,12 @@ Item 3 : Ethics Policy
 [9] “AI Privacy Guide for You, Your Family and Your Business,” AI Privacy Guide for You, Your Family and Your Business. https://www.augusta.edu/online/blog/ai-privacy-guide
 
 [10] Digital Ocean, “AI and Privacy: Safeguarding Data in the Age of Artificial Intelligence | DigitalOcean,” Digitalocean.com, 2024. https://www.digitalocean.com/resources/articles/ai-and-privacy
+
+[11]“Steven Mills,” BCG Global, 2023. https://www.bcg.com/about/people/experts/steven-mills (accessed Apr. 21, 2025).
+
+[12]“Rumman Chowdhury, Ph.D.,” Rumman Chowdhury, Ph.D. https://www.rummanchowdhury.com/
+‌
+[13]“IAPP,” Iapp.org, 2025. https://iapp.org/about/person/0011a00000DlDuiAAF/ (accessed Apr. 21, 2025).
+‌
+
+‌
