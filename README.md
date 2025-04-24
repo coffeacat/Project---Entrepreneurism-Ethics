@@ -236,6 +236,7 @@ Powerful Management tools are available for the business to help with marketing 
 - Its easy use of tools from various services can help the business continue and strive with the other methods that AI can use to improve effectiveness and efficiency.
 
 ## 1.C.4.3 Ethical Impact(s)/Issue(s)
+ When it comes the the useage and distribution of A.I. services, it is both a risk and reward for 3 parties that will be effected. Small Businesses take quite the risk in using A.I. services to expand on social media as it can either support with current infomation and be modified, or be generated without moderation. As well as possibly facing a finacial risk with the impact that may come from using A.I. to help with social media management, alongside the developers of the tools. Potencial issues that have been answered from researchers that have tested their usage and have provided guidance [9]. Social Media users recive a losser impact as the use of the tools by businesses do not directy use or target personal information as it is its own sepreate part.
 
 | Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights |
 |-------------|----------------|--------------|---------------------------|---------------------|
@@ -265,10 +266,15 @@ Powerful Management tools are available for the business to help with marketing 
 
 ### 2A
 
-### 2B
+### 2B Motivation
+ At Lans.ai, the team is driven by a shared passion to make A.I. tools accessible to business owners to gain a boost in productivity and audience attraction. To provide those that fall short in the ever growing tech centered world a path to be able to upgrade and level the playing field with large scale businesses. Everyone at Lans.ai is motivated to support small businesses with the support from our panthers and creators of the ai tools provided in the service to provide a diverse selection. Because of the nature of the tech world, the team strives to find new solutions to improve efficiency, productivity, not just for the business world but also everyday use. We ensure that what we provide to our customers are tools that require little to moderate attention and to not focus on complex solutions. We want to provide them with the ability to use tools that are minimal that can be used effectively without any fear of possible damage. The challenges that come from operating such service with our panthers helps us maintain the trust and confidence that what is done is to help those in need. With new and more complex a.i. technologies, we strive to provide what is right for our customers and to protect them from technical and possible legal issues.
 
-### 2C
-
+### 2C Summary: Comoany Culture
+- Empowering small businesses with smart simplicity
+- Innovation
+- Accessible
+- Effective
+- Driven by Purpose
 
 ## Item 3 : Ethics Policy 
 
