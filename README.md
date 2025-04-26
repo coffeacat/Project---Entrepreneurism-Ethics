@@ -249,8 +249,8 @@ Powerful Management tools are available for the business to help with marketing 
 - Its easy use of tools from various services can help the business continue and strive with the other methods that AI can use to improve effectiveness and efficiency.
 
 ## 1.C.4.3 Ethical Impact(s)/Issue(s)
- When it comes the the usage and distribution of A.I. services, it is both a risk and reward for 3 parties that will be effected. Small Businesses take quite the risk in using A.I. services to expand on social media as it can either support with current infomation and be modified, or be generated without moderation. As well as possibly facing a finacial risk with the impact that may come from using A.I. to help with social media management, alongside the developers of the tools. Potencial issues that have been answered from researchers that have tested their usage and have provided guidance [9]. Social Media users recive a losser impact as the use of the tools by businesses do not directy use or target personal information as it is its own sepreate part.
-
+ When it comes to the usage and distribution of A.I. services, it is both a risk and reward for 3 parties that will be affected. Small Businesses take quite the risk in using A.I. services to expand on social media as it can either support current information and be modified, or be generated without moderation. As well as possibly facing a financial risk with the impact that may come from using A.I. to help with social media management, alongside the developers of the tools. Potential issues that have been answered from researchers that have tested their usage and have provided guidance [9]. Social Media users receive a loser impact as the use of the tools by businesses do not directly use or target personal information as it is its own separate part.
+ 
 | Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights |
 |-------------|----------------|--------------|---------------------------|---------------------|
 | Small Business Owners | High | High | Low | Mid |
