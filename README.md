@@ -18,13 +18,13 @@ The key questions guiding our startup are: "How can we create an AI matching sys
 
 ## 1.C. Strategy with Ethical Impacts AND Ethical Safeguards
 
-## 1.C.1.1 OKR1 Objective and Key Result
+## 1.C.1.1 OKR 1 Objective and Key Result
 
   Lans.ai will maintain an average of 10% conversion rate from all web traffic and site visitors  within the first three months after our service’s launch. This means that for every 100 site visitors, at least 10 should sign up, engage with our AI powered matching system, and either complete a business assessment, request a consultation, or purchase an AI solution from one of our partners. This metric is important because it indicates early marketfit, and validates the effectiveness of Lans.ai’s service for new and small businesses. This metric is also a reflection on how well our service resonates with our client demographic, how valuable this service is seen by the wider market, and how effective our marketing has been for Lans.ai. 
   Key stakeholders of Lans.ai involve the small business using Lans.ai, their customers and clients who benefit from the improvements Lans.ai provides to those they do business with, the AI solution providers which we recommend to our small and new business clients, investors and funding partners, and the founders of Lans.ai. An early conversion rate of 10% or higher is important to all parties involved as it validates our mission and market fit. It gives our investors and funding partners confidence that their investment is going towards a service that is in demand, which makes further investment more appealing. Lans.ai having this support and funding allows us to continue improving our services by enabling us to expand our outreach to both AI solutions providers looking for more clients, and underserved small businesses who benefit from the even playing field AI solutions provides. Our small business clients' own clients are additional stakeholders who must be considered, as the service we provide will have a direct impact on the operations of the businesses from which those clients deal with.
 
 
-## 1.C.1.2 OKR1 Metric(s) with Experiment(s)
+## 1.C.1.2 OKR 1 Metric(s) with Experiment(s)
 
 To measure the success of this OKR we will run experiments on the following metrics:
 
@@ -60,7 +60,7 @@ who sign up but do not purchase.
 
    Analyzing these metrics through experimentation and implementing the appropriate changes made from the collected information regarding the onboarding and purchasing process will lead to gradually improved retention and conversion rates for prospective clients of Lans.ai
 
-## 1.C.1.3 Ethical Impact(s)/Issue(s)
+## 1.C.1.3 OKR 1 Ethical Impact(s)/Issue(s)
 
 ### Expected Ethical Impact Risk table
 
@@ -92,7 +92,7 @@ who sign up but do not purchase.
 
   Our customers' customers face low to no financial risk because our B2B model and company's success will not directly affect their purchasing power, it will only serve to improve the businesses they buy from. The risk to their privacy and personal information is low, as we do not store or ask for our clients' customers' information. For this reason, there also is low risk for a conflict of interests involving our clients' customer information. This is also why these stakeholders face no risk of the violation of their rights, as we do not interact directly with them or their information.
 
-## 1.C.1.4 Ethical Safeguards
+## 1.C.1.4 OKR 1 Ethical Safeguards
 
 To alleviate these issues and enforce ethical business practice for Lans.ai, we will do the following:
 
@@ -103,12 +103,12 @@ To alleviate these issues and enforce ethical business practice for Lans.ai, we 
   Measuring the effectiveness of our privacy and data protection policy will be done by monitoring the opt-in and opt-out rates of our users, with lower opt out rates signifying an agreeable privacy policy and higher rates signaling an unreasonable or intrusive policy. Additionally, our privacy policy will be constructed to have as close to a 12-15 range Flesch-Kinaid english readability score as possible. This range denotes text that is on the lower end of what is considered "advanced" reading material and is generally accessible to college level readers [5]. Because business owners are likely to have at least a college level understanding of English, a 12-15 readability score will help our privacy policy's ability to inform our clients of their privacy rights and options.
 
 
-## 1.C.2.1 OKR2 Objective and Key Result
+## 1.C.2.1 OKR 2 Objective and Key Result
   Lans AI will democratize AI access by achieving an 85% match accuracy between small business needs and relevant AI solutions, with 70% of matched businesses implementing at least one recommended tool within 3 months. The Lans AI system must be designed to accommodate the specific needs of small business owners who often lack technical expertise, face resource constraints, and have limited time to research technology solutions. 
 
   Key stakeholders include the small business owners who are at risk of being left behind in the digital revolution, the AI tool providers seeking to expand their customer base, and local business associations interested in supporting community economic resilience. Additionally, other parties such as municipal governments and economic development organizations may also be impacted as the success of local businesses directly affects community prosperity. The platform serves as a bridge between underserved businesses and transformative AI tools they would otherwise never discover, helping level the playing field in an increasingly technology-driven marketplace.
 
-## 1.C.2.2 OKR2 Metric(s) with Experiment(s)
+## 1.C.2.2 OKR 2 Metric(s) with Experiment(s)
 
 #### Metric(s) with Experimentation
   Increase website traffic by 150% and achieve a 30% blog-to-search conversion rate within 6 months. This study would track 1,000 website visitors, measuring:
@@ -135,7 +135,7 @@ For measuring the newsletter subscription goal of "Achieve 2,000 newsletter subs
 
   Analyzing this data would help refine the content strategy to not only increase traffic numbers but ensure visitors convert to the search functionality, supporting the business model of connecting small business owners with relevant AI tools based on website analysis.
 
-## 1.C.2.3 Ethical Impact(s)/Issue(s)
+## 1.C.2.3 OKR 2 Ethical Impact(s)/Issue(s)
 
   For Lans AI's OKR of achieving 85% match accuracy with 70% implementation rates, a primary ethical concern involves algorithmic bias in our small business matching system. If our platform disproportionately recommends expensive AI solutions or favors businesses with existing technical sophistication, we risk widening the digital divide rather than closing it. According to a real-world case, "Small business lending algorithms have been shown to discriminate against minority business owners, with research showing Black-owned businesses were 20% less likely to receive algorithmic loan approvals despite having similar financial profiles" [6].
 
@@ -147,7 +147,7 @@ For measuring the newsletter subscription goal of "Achieve 2,000 newsletter subs
 
   Small Business Owner Stakeholder: The financial risk is high as these businesses operate on thin margins with limited capital. Implementing inappropriate AI tools could deplete critical resources needed for daily operations. Privacy risk is high because our system must analyze website content and business operations, potentially exposing sensitive information about pricing strategies or customer data. Conflicting interest risk is medium as businesses need affordable solutions while our platform might prioritize tools with higher implementation rates to meet our OKR metrics.
 
-## 1.C.2.4 Ethical Safeguards
+## 1.C.2.4 OKR 2 Ethical Safeguards
 
   The identified risk of algorithmic bias, we propose implementing transparent matching criteria that specifically address potential discrimination. We would develop a "Fairness-First" protocol that evaluates each recommendation for potential bias before presenting it to small business owners. Research supports this approach, with studies showing that "implementing pre-processing bias detection coupled with regular algorithmic audits can reduce discriminatory outcomes in automated recommendation systems by up to 40%" [7].
 
@@ -157,11 +157,11 @@ For measuring the newsletter subscription goal of "Achieve 2,000 newsletter subs
 
 
 
-## 1.C.3.1 OKR3 Objective and Key Result
+## 1.C.3.1 OKR 3 Objective and Key Result
 
   Lans AI will maintain an updated quality catalogue of safe AI powered tools in order to better serve customers with current modern day issues. To help make sure that business owners continue to stay satisfied with the products Lans AI offers, each solution must maintain a 50% user satisfaction rating to be promoted to users. That means at least roughly half of the users who use the product should be satisfied with the product they used. User satisfaction will be an important metric in determining which tools are the most useful to our customer base and which companies we should continue to invest more in and continue to partner with. In addition to maintaining a satisfactory user satisfaction rating, the solutions hosted on Lans AI are required to go under a background check by us to ensure that they’re safe to use, and we are not promoting products that are harmful or contradict any of our core values. This also helps to lower any financial and privacy risks between the key stakeholders. The key stakeholders in this OKR are small business owners, their customers, Lans AI, their AI business partners, and their investors. Small business owners will be impacted depending on how well Lans AI is able to provide services that help optimize their business strategies and maximize their available resources. Small business owners’ customers will be impacted based on how well Lans AI provides assistance and whether changes are well implemented. Lans AI will be impacted depending on the need for AI solutions in the business economy, how many shareholders want to invest or partner with Lans AI, and how well Lans AI is able to deliver on their promise. AI Partners will be impacted by how well their products do in the market and how well Lans AI aids them in marketing their product. Investors will be impacted depending on how well Lans AI performs as a company. A minimum user satisfaction rating of 50% will help small business owners’, Lans AI, and Lans AI investors know which AI partners are valuable assets of Lans AI and which ones are not, since a lot of the impact on the stakeholders depends on the quality of the service Lans AI provides to business owners.
 
-## 1.C.3.2 OKR3 Metric(s) with Experiment(s)
+## 1.C.3.2 OKR 3 Metric(s) with Experiment(s)
 
   To measure the quality in the products we offer, we will be using user satisfaction as a metric, like we mentioned earlier. User satisfaction will be constructed out of mandatory short user reviews. Each user on Lans AI is required to score a product that they used for more than a month on a score from 1-10, in addition to what they were using the product for and how well it met their needs. The scores will be averaged out to make up the user satisfaction rating. There will also be additional short questions, but users are ultimately not required to submit any further information other than the first three questions to avoid survey fatigue.
 
@@ -198,14 +198,20 @@ As of right now, the short customer satisfaction survey involves these questions
 8. On a scale of 1-10, how likely are you to recommend this service to others?
 9. How satisfied are you with [insert the most well known functional use of this service], on a scale of 1-10.
 10. Please rate the following features on a scale of 1 to 5, where 1 is ‘Not important at all,’ and five is ‘Extremely important.’
-11. If you could change just one thing about this product, what would it be? [1]
+    | Feature Name        | 1 | 2 | 3 | 4 | 5 |
+    |---------------------|:-:|:-:|:-:|:-:|:-:|
+    | Data Collection     |   |   |   |   |   |
+    | Report Generation   |   |   |   |   |   |
+    | Predictive Modeling |   |   |   |   |   |
+    |          …          |   |   |   |   |   |
+11. If you could change just one thing about this product, what would it be? [14]
 12. Any other concerns about this product?
 
    Any user, regardless of whether they have used the product or not, may also provide a word review if they wish to under that product’s page on our website. Lans AI will construct the user satisfaction % primarily based on the first three questions of the survey (1. On a scale of 1-10, how would you rate this product or service overall? 2. What purpose(s) were you using our services for? 3. On a scale of 1-10, How well does this service meet your needs?), but will factor in the other survey questions if the users choose to answer them, as well as attempt to factor in website user reviews of all users and weight them accordingly based on whether the user is a verified user of the service and if they’ve been using it for over a month. There is a larger emphasis on the survey questions instead of reviews because this is a mandatory survey that the user must take after they use a product for over a month, in contrast to reviews which can be submitted by any user regardless of whether or not they are a verified purchaser of that AI product. Products below 50% user satisfaction may still remain on Lans AI and be searchable in our database as long as we are still partnered with that AI company, but will be significantly less promoted than solutions that have a user satisfaction rating above 50%. Solutions that have high user satisfaction ratings will be recommended to people more often the higher their rating is.
 
    By studying user satisfaction in our customer base, we can identify which services we should be investing into.
 
-## 1.C.3.3 Ethical Impact(s)/Issues(s):
+## 1.C.3.3 OKR 3 Ethical Impact(s)/Issues(s):
 Ethical Impact Risk Table:
 
 | Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights |
@@ -216,7 +222,7 @@ Ethical Impact Risk Table:
 | AI service partners | mid | low | mid | mid |
 | Investors | high | low | mid | low |
 
-   Business Owner Stakeholder: The financial risks for business owners are moderate, as the performance of the AI service Lans AI provides affects the success or failure of the business. The business owner will not necessarily risk losing their entire business just because they choose to use Lans AI, but it may pose a risk to the owner depending on the available funds and what percentage of that is invested into Lans AI. After all, Lans AI is only meant to be a platform to provide easy access to vetted AI tools– it is not meant to be the only business management tool a business owner relies on, therefore while the use of Lans AI may affect a business’ performance, it will not cause the immediate downfall of the business in the way other high risk financial investments might have. The privacy risks for business owners are high, as the AI tool will need intimate knowledge of how the business operates and its customer base in order to produce any meaningful results. The primary concern regarding privacy is making sure none of this internal data is leaked or utilized for any other purpose other than what it’s supposed to do. [2] Business owners shouldn’t have to worry about many conflicting interests risks, as many of the other stakeholders share many of the interests business owners have, however, business owners might want different features implemented into Lans AI or want better prices which conflict with the interest of other stakeholders who want to spend their efforts elsewhere. Overall, the risk of business owners’ rights being violated is medium, since if we’re not careful about vetting the AI partners we host or handling data, we may cause a lot of harm to the businesses we’re meant to be helping.
+   Business Owner Stakeholder: The financial risks for business owners are moderate, as the performance of the AI service Lans AI provides affects the success or failure of the business. The business owner will not necessarily risk losing their entire business just because they choose to use Lans AI, but it may pose a risk to the owner depending on the available funds and what percentage of that is invested into Lans AI. After all, Lans AI is only meant to be a platform to provide easy access to vetted AI tools– it is not meant to be the only business management tool a business owner relies on, therefore while the use of Lans AI may affect a business’ performance, it will not cause the immediate downfall of the business in the way other high risk financial investments might have. The privacy risks for business owners are high, as the AI tool will need intimate knowledge of how the business operates and its customer base in order to produce any meaningful results. The primary concern regarding privacy is making sure none of this internal data is leaked or utilized for any other purpose other than what it’s supposed to do [8]. Business owners shouldn’t have to worry about many conflicting interests risks, as many of the other stakeholders share many of the interests business owners have, however, business owners might want different features implemented into Lans AI or want better prices which conflict with the interest of other stakeholders who want to spend their efforts elsewhere. Overall, the risk of business owners’ rights being violated is medium, since if we’re not careful about vetting the AI partners we host or handling data, we may cause a lot of harm to the businesses we’re meant to be helping.
 
    Business Owner’s Customers Stakeholder: The financial risk the customer of a business should face is very low since the customer is not obligated nor pressured to buy any of the products the business offers. The only risk they take purchasing a product is whether or not they get their money’s worth. Customers might face a moderate amount of privacy risk, since it is their behavior that is being studied and filed away in AI models for business analytics, possibly without their informed consent. There is little risk for conflicting interests, as the only conflicts a business’ customer may have is concerning the price and quality of the product and any customer data that might be stored without their knowledge. There is a low chance of a customer's rights being violated if we and our AI partners follow privacy laws accordingly.
 
@@ -226,17 +232,21 @@ Ethical Impact Risk Table:
    
    Investor Stakeholder: The financial risk any investors have in Lans AI is high as investors rely on Lans AI to succeed in business ventures in order to regain any money or value back from their investment. The privacy risk investors take from working with Lans AI is low, as not much private personal information is needed to invest in a startup company. Not to mention that in case a data breach happens, the sensitive information of the investors is on the lower end of priority when extracting internal data from a company. The risk of conflicting interest is moderate as many types of investors might want Lans AI to act or produce in a certain style that conflicts with other investors. Not to mention, Lans AI is not just beholden to the interest of its investors, but also its customers and partners as well, which might cause conflicts of interest with investors. The risk of violation of rights is low, as the usage of contracts and agreements should square away any risk of rights being violated.
 
-## 1.C.3.4 Ethical Safeguards
+## 1.C.3.4 OKR 3 Ethical Safeguards
 
-LANS AI will enforce strong privacy and security protocols, clearly outlining data use and collection, with options to reject tracking per CCPA. Policies will be crafted with input from legal and cybersecurity experts like Deloitte and EY. To ensure accessibility, the privacy policy will target a 12–15 Flesch-Kincaid readability score. Effectiveness will be measured by user opt-in/out rates, helping gauge clarity and user trust.
+To avoid any misunderstandings between any of the stakeholders, it should be clearly stated in the Terms of Service and any other related policies like the Privacy and Data Protection Policy, what the data in the survey is used for and how that data is going to be used by us. All uses should be in compliance with the California Consumer Privacy Act [4].
 
-## 1.C.4.1 OKR4 Objective and Key Result
+To design the proper legal agreements for this OKR, we would consult legal advisors and ethics experts about what information is reasonable to gain from a survey and to what degree we can use a mandatory survey like the one proposed about to our customers. We would also consult survey experts to make sure the survey doesn’t require any sensitive information to be relayed to us for the purposes of improving our service. Ensuring that the data collected from this survey doesn’t negatively affect the user satisfaction score of any AI tool due to algorithmic bias is at the top of our priority list too. We would research tools and firms like Fairlearn [15] and the Boston Consulting Group [16] to help implement these safeguards for our consumers.
+
+To measure the effectiveness of the safeguards, we will assess the reliability and validity of the data collected in the survey, in addition to ensuring it doesn’t violate any rights or principles like user anonymity, data security, and informed consent. We can also choose to measure how much a user participates in a survey to see how effective it is.
+
+## 1.C.4.1 OKR 4 Objective and Key Result
 
   One of the biggest challenges that many businesses face to grow is social awareness and discoverability. In the era of technology, many direct themselves to the internet to obtain information and stay up to date with current situations. Businesses have taken the opportunity to do so with social media, a medium that many use to be able to post their statistics, business information, etc, which can be shared with other individuals or a large group of people. 
 
   Lans.ai will be able to help support the businesses in identifying what it is, what it represents, its statistics, and other information available to form a presence on social media. If the business does not have a website or is just starting out, Lans.ai will provide tools to begin to be able to format the available information and display it in a way that many can see and understand. Resulting in a good social media presence and a good reputation for being able to share relevant information. Boosting the company's social media pages and ultimately their business.
 
-## 1.C.4.2 OKR3 Metric(s) with Experiment(s)
+## 1.C.4.2 OKR 4 Metric(s) with Experiment(s)
   The use of AI tools in social media would gain the attention of thousands of users a week. To ensure the high number of views, we run the following tests to get the following results:
 
 - Lans.ai provides a list of tools that would adapt to the company's style and create designs that can get the attention of 1,000 viewers a week.
@@ -252,7 +262,7 @@ Powerful Management tools are available for the business to help with marketing 
 - Such tools require little moderation with user-friendly tools to make sure that the content being created and its information is correct.
 - Its easy use of tools from various services can help the business continue and strive with the other methods that AI can use to improve effectiveness and efficiency.
 
-## 1.C.4.3 Ethical Impact(s)/Issue(s)
+## 1.C.4.3 OKR 4 Ethical Impact(s)/Issue(s)
  When it comes to the usage and distribution of A.I. services, it is both a risk and reward for 3 parties that will be affected. Small Businesses take quite the risk in using A.I. services to expand on social media as it can either support current information and be modified, or be generated without moderation. As well as possibly facing a financial risk with the impact that may come from using A.I. to help with social media management, alongside the developers of the tools. Potential issues that have been answered from researchers that have tested their usage and have provided guidance [9]. Social Media users receive a loser impact as the use of the tools by businesses do not directly use or target personal information as it is its own separate part.
  
 | Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights |
@@ -269,7 +279,7 @@ Powerful Management tools are available for the business to help with marketing 
 
   A.I. Service Providers: For the Providers of these services and powerful tools that were made available to small businesses, can face financial risks. The tools being displayed to the future user of Lans.ai expect professional and well-made tools that help both the providers and businesses grow and improve. Having a good social media presence is crucial to our partners and expect that the tools being used help them reach their goals. A high risk may follow if the user is not satisfied with what the provider offers, which can turn bad for the provider, and must proceed with caution if the service itself begins to gain a bad reputation. Privacy Risk is at a moderate level with our service providers as data breaches are unfortunately common in the tech world and can cause damage to the product by our providers. Conflict of Interest is at a low because we work with the providers to ensure that there is no conflict between other providers. There is also a low yet moderate rights violation due to as mentioned before, data breaches, hacking, and other security issues that can be resolved. [8]
 
-## 1.C.4.4 Ethical Safeguards
+## 1.C.4.4 OKR 4 Ethical Safeguards
   To avoid the risks that may impact our customers and partners in connection to AI use on social media platforms, we will do the following:
 
   For our panthers that provide Lans.ai powerful tools for our customers, a terms and service document will be given to them to understand the risks and responsibilities. This will include the kind of tools that can be used to ensure social media growth is made to be used in compliance with the terms and conditions of the respective platform that our customers would like to use. Making sure that the rules are being followed and that there would not be any violation of rights and privacy risks. As well as understanding the financial risks that can impact all parties involved should there be any conflict and large-scale issues.
@@ -282,7 +292,7 @@ Powerful Management tools are available for the business to help with marketing 
 ## Item 2 : Cultural Policy 
 
 ### 2.A. Core Values
-LANS AI values inclusivity, accessibility, and support for small businesses. Their platform bridges the gap between technical skill and resource availability by offering a wide range of curated AI tools. They believe in creating equal opportunities in business by simplifying access to complex technologies, allowing users to focus on their vision while LANS AI handles the technical side.
+Lans AI’s company values often reflect in the products we put out. We have a passion for creating a platform that showcases a range of different AI tools and pride ourselves in being collaborative and inclusive, whether that comes in the form of our extensive tool library curated for solving all kinds of problems or supporting a variety of business owners and developers through our platform. We value small businesses, so we strive to aid those who struggle to pursue their dreams by bridging the gap between any necessary skills and unavailable resources with our selection of tools. We believe all people should have the right to play on an equal playing field when it comes to a field as multifaceted and complex as business, but we’re also aware that people don’t have all the time in the world to learn the skills required to flourish in this field or the resources to hire someone else to deal with it. So let us square away all the technicalities as you focus on your vision for your business. With these sentiments as our core values, we hope to continue providing cutting edge tools that are accessible to everyone.
 
 
 ### 2.B. Motivation
@@ -300,7 +310,7 @@ LANS AI values inclusivity, accessibility, and support for small businesses. The
 ### 3.A. Core Items:
 Lans AI’s ethics policy is grounded in five core principles: Fairness, by auditing our algorithms to prevent bias and ensure equal access to solutions regardless of background; Transparency, by clearly explaining how recommendations are generated and what data is used; Privacy, by collecting only essential data and securing it in compliance with regulations like the CCPA; Accountability, by maintaining human oversight in sensitive decisions and offering direct support to users; and Continuous Improvement, by regularly reviewing performance, stakeholder feedback, and fairness outcomes to evolve our practices responsibly.
 
-### 3B. Board:
+### 3.B. Board:
 
    For LANS.AI’s Board Of Ethics we knowledgeable and experienced people can demonstrate understanding the praxis of AI and Ethics, especially within the context of business to business operations as well as AI as a product or service.
 
@@ -349,5 +359,9 @@ Lans AI’s ethics policy is grounded in five core principles: Fairness, by audi
 ‌
 [13]“IAPP,” Iapp.org, 2025. https://iapp.org/about/person/0011a00000DlDuiAAF/ (accessed Apr. 21, 2025).
 ‌
+[14] “21 Powerful Customer Satisfaction Survey Questions,” Survicate.com, 2024. https://survicate.com/blog/customer-satisfaction-survey-questions/
+‌
+[15] Fairlearn, “Fairlearn,” fairlearn.org, 2025. https://fairlearn.org/
 
+[16] BCG, “About BCG,” BCG Global, 2023. https://www.bcg.com/about/overview
 ‌
