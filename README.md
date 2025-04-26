@@ -277,12 +277,14 @@ Powerful Management tools are available for the business to help with marketing 
 
 ## Item 2 : Cultural Policy 
 
-### 2A
+### 2.A. Core Values
+LANS AI values inclusivity, accessibility, and support for small businesses. Their platform bridges the gap between technical skill and resource availability by offering a wide range of curated AI tools. They believe in creating equal opportunities in business by simplifying access to complex technologies, allowing users to focus on their vision while LANS AI handles the technical side.
 
-### 2B Motivation
+
+### 2.B. Motivation
    At Lans.ai, the team is driven by a shared passion to make A.I. tools accessible to business owners to gain a boost in productivity and audience attraction. To provide those that fall short in the ever growing tech centered world a path to be able to upgrade and level the playing field with large scale businesses. Everyone at Lans.ai is motivated to support small businesses with the support from our panthers and creators of the ai tools provided in the service to provide a diverse selection. Because of the nature of the tech world, the team strives to find new solutions to improve efficiency, productivity, not just for the business world but also everyday use. We ensure that what we provide to our customers are tools that require little to moderate attention and to not focus on complex solutions. We want to provide them with the ability to use tools that are minimal that can be used effectively without any fear of possible damage. The challenges that come from operating such service with our panthers helps us maintain the trust and confidence that what is done is to help those in need. With new and more complex a.i. technologies, we strive to provide what is right for our customers and to protect them from technical and possible legal issues.
 
-### 2C Summary: Company Culture
+### 2.C. Summary: Company Culture
 - Empowering small businesses with smart simplicity
 - Innovation
 - Accessible
