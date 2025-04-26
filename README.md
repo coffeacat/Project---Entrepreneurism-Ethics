@@ -1,5 +1,10 @@
 # Project Entrepreneurism-Ethics
 
+## 0: Company Summary
+   Lans AI empowers small businesses to thrive in the AI revolution. Our platform analyzes business websites to match owners with tailored AI solutions they'd never discover on their own. While corporations leverage advanced technology to dominate markets, we're ensuring small businesses aren't left behind. By democratizing access to transformative AI tools, we're creating a more equitable digital economy where local businesses can compete, innovate, and continue serving as the backbone of their communities.
+
+
+
 ## 1.A. Company Name LANS AI
 
 ## 1.B Long-Term Vision Statement
