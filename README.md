@@ -293,7 +293,8 @@ LANS AI values inclusivity, accessibility, and support for small businesses. The
 
 ## Item 3 : Ethics Policy 
 
-### 3A
+### 3.A. Core Items:
+Lans AI’s ethics policy is grounded in five core principles: Fairness, by auditing our algorithms to prevent bias and ensure equal access to solutions regardless of background; Transparency, by clearly explaining how recommendations are generated and what data is used; Privacy, by collecting only essential data and securing it in compliance with regulations like the CCPA; Accountability, by maintaining human oversight in sensitive decisions and offering direct support to users; and Continuous Improvement, by regularly reviewing performance, stakeholder feedback, and fairness outcomes to evolve our practices responsibly.
 
 ### 3B. Board:
 
